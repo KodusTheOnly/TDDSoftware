@@ -1,0 +1,2 @@
+1. Testes Funcionais verificam o sistema do ponto de vista do usuário, enquanto Testes de Unidade verificam pequenas partes do código de forma isolada.
+2. Testes Funcionais costumam envolver navegador, interface e integração entre componentes, enquanto Testes de Unidade são mais rápidos e focam no comportamento interno de funções, métodos ou classes.

@@ -1,0 +1,7 @@
+O processo TDD começa com a escrita de um teste que descreve uma nova funcionalidade ou comportamento esperado. 
+Em seguida, o teste é executado e deve falhar, pois a funcionalidade ainda não foi implementada. 
+Depois, escrevemos o código mais simples possível para fazer o teste passar. 
+Quando o teste passa, podemos refatorar o código, mantendo os testes como garantia de que o comportamento continua correto.
+No projeto, usamos testes funcionais para verificar o comportamento da aplicação do ponto de vista do usuário, e testes de unidade 
+para orientar pequenas implementações internas. O ciclo é: escrever ou ajustar o teste funcional, criar testes de unidade para a próxima mudança, 
+implementar o código, rodar os testes e refatorar quando necessário.

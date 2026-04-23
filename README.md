@@ -2,6 +2,7 @@
 
 Projeto desenvolvido durante a atividade de Testes de Software com Django e Selenium, seguindo o roteiro da Aula Prática 02. A proposta foi evoluir uma aplicação simples de lista de tarefas usando o ciclo de TDD.
 
+https://github.com/RogerioNogalha/TesteSoftware/blob/main/aula2.md
 ## Objetivo
 
 O objetivo do projeto é demonstrar a evolução de uma aplicação inicialmente estática para uma aplicação web dinâmica. Durante a atividade, a página inicial passou a usar templates, formulário com método POST, processamento de requisições, persistência em banco de dados e testes automatizados.
